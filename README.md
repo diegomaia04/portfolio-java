@@ -8,7 +8,7 @@ diego maia fernandes
 
 ## Captura de Tela
 ![]()
-![tela](https://github.com/diegomaia04/portfolio-java/blob/main/img/Capturar.PNG)
+![tela](https://github.com/diegomaia04/portfolio-java/blob/main/img/Captura%20de%20tela%202022-09-01%20150010.png)
 
 ## demostração (Instruções para instalação)
 - É necessario ter o Java Versão 17 ou superior instalado
